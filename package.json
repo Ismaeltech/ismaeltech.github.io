@@ -19,6 +19,6 @@
     "serve": "browser-sync start --server --files 'index.html, assets/styles/main.css, assets/scripts/index.js'"
   },
   "dependencies": {
-    "startbootstrap-stylish-portfolio": "^5.0.7"
+    "startbootstrap-stylish-portfolio": "^5.1.0"
   }
 }
